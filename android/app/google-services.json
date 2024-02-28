@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668048187396",
+    "project_id": "pedigo-346f0",
+    "storage_bucket": "pedigo-346f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668048187396:android:f39ea4c0c3a27d42221551",
+        "android_client_info": {
+          "package_name": "com.example.pedi_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668048187396-02qkeu9246r71ossffoeeiptf25qho43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMkCocyaEQydVY1NLQ1CtsuQjHloM9cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668048187396-02qkeu9246r71ossffoeeiptf25qho43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
