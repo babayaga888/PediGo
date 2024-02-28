@@ -1,16 +1,28 @@
-# pedi_go
+#Pedi-Go
+Pedi-Go is a Flutter project designed as a basic demonstration of passenger and driver interaction using Google Maps. This app facilitates a simple yet effective ride-sharing experience, allowing passengers to request rides, drivers to accept ride requests, and utilizing Google Maps for route optimization. The primary focus is on creating a seamless and efficient process for both passengers and drivers.
 
-A new Flutter project.
+##Key Features
+Passenger Interaction
+Request a Ride:
 
-## Getting Started
+Passengers can use the app to notify available drivers of their location and request a ride.
+Driver Acceptance:
 
-This project is a starting point for a Flutter application.
+Drivers receive notifications about ride requests and can accept or decline based on their availability.
+Google Maps Integration
+Path Selection:
 
-A few resources to get you started if this is your first Flutter project:
+##Google Maps is integrated 
+to determine the nearest and most efficient route between the passenger's location and the destination.
+Real-time Navigation:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Both passengers and drivers can benefit from real-time navigation, ensuring a smooth and reliable travel experience.
+Fair Payment Estimates
+Transparent Estimates:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app provides payment estimates to both passengers and drivers, aiming for a fair pricing model that benefits all parties.
+Avoiding Overpricing and Underpricing:
+
+The payment estimates are designed to strike a balance, preventing overpricing for passengers and ensuring drivers receive reasonable compensation.
+##Getting Started
+To run the Pedi-Go app locally, follow these steps:
