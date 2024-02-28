@@ -1,28 +1,24 @@
-#Pedi-Go
-Pedi-Go is a Flutter project designed as a basic demonstration of passenger and driver interaction using Google Maps. This app facilitates a simple yet effective ride-sharing experience, allowing passengers to request rides, drivers to accept ride requests, and utilizing Google Maps for route optimization. The primary focus is on creating a seamless and efficient process for both passengers and drivers.
+# Pedi-Go
 
-##Key Features
-Passenger Interaction
-Request a Ride:
+Pedi-Go is a Flutter project that demonstrates a basic implementation of passenger and driver interaction using Google Maps. The app allows passengers to notify available drivers, enables drivers to pick up passengers, and uses Google Maps to choose the nearest path during travel. The app also provides payment estimates that aim to be fair to both passengers and drivers.
 
-Passengers can use the app to notify available drivers of their location and request a ride.
-Driver Acceptance:
+## Getting Started
 
-Drivers receive notifications about ride requests and can accept or decline based on their availability.
-Google Maps Integration
-Path Selection:
+## Features
 
-##Google Maps is integrated 
-to determine the nearest and most efficient route between the passenger's location and the destination.
-Real-time Navigation:
+- Passenger and driver interaction
+- Google Maps integration for path selection
+- Payment estimates for fair pricing
 
-Both passengers and drivers can benefit from real-time navigation, ensuring a smooth and reliable travel experience.
-Fair Payment Estimates
-Transparent Estimates:
+## Usage
 
-The app provides payment estimates to both passengers and drivers, aiming for a fair pricing model that benefits all parties.
-Avoiding Overpricing and Underpricing:
+1. Clone the repository:
 
-The payment estimates are designed to strike a balance, preventing overpricing for passengers and ensuring drivers receive reasonable compensation.
-##Getting Started
-To run the Pedi-Go app locally, follow these steps:
+   ```bash
+   git clone https://github.com/your-username/pedi_go.git
+
+   cd pedi_go
+
+   flutter pub get
+
+   flutter run
